@@ -8,5 +8,4 @@ A Flask web app to manage Cisco switch port security settings. Supports mock and
 - View logs and command results
 - Mock mode for testing
 
-## Setup
-See VS Code Setup Guide in this repo for full instructions.
+
